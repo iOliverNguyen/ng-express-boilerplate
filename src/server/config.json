@@ -1,0 +1,5 @@
+{
+    "dbname": "blankdb",
+    "dbserver": "localhost",
+    "secret": "thisIsASecretString"
+}
