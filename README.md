@@ -13,7 +13,7 @@ ng-node-boilerplate (aka Blank) is a boilerplate project to kickstart new Angula
 Install Node.js. Start MongoDB. Make sure that MongoDB is running on its default port (27017). Then:
 
 ```sh
-$ sudo npm -g install grunt-cli karma bower
+$ sudo npm -g install grunt-cli karma bower mocha
 $ npm install
 $ bower install
 $ grunt watch
