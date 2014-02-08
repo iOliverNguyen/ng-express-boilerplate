@@ -51,7 +51,7 @@ module.exports = {
       'vendor/angular-bootstrap/ui-bootstrap.js',
       'vendor/angular-bootstrap/ui-bootstrap-tpls.js',
       'vendor/angular-ui-router/release/angular-ui-router.js',
-      'vendor/angular-ui-utils/modules/route/route.js',
+      'vendor/angular-ui-utils/ui-utils.js',
       'vendor/angular-sanitize/angular-sanitize.js'
     ],
     less: ['src/less/vendor.less'],
