@@ -1,18 +1,18 @@
 {
   "author": "Liti Team <info@liti.ws>",
-  "name": "ng-blank-boilerplate",
+  "name": "ng-node-boilerplate",
   "version": "0.0.1",
-  "homepage": "http://github.com/litiws/ng-blank-boilerplate",
+  "homepage": "http://github.com/litiws/ng-node-boilerplate",
   "licenses": [{
     "type": "MIT",
-    "url": "http://github.com/litiws/ng-blank-boilerplate/blob/master/LICENSE"
+    "url": "http://github.com/litiws/ng-node-boilerplate/blob/master/LICENSE"
   }],
   "repository": {
     "type": "git",
-    "url": "git://github.com/litiws/ng-blank-boilerplate.git"
+    "url": "git://github.com/litiws/ng-node-boilerplate.git"
   },
   "bugs": {
-    "url": "https://github.com/litiws/ng-blank-boilerplate/issues"
+    "url": "https://github.com/litiws/ng-node-boilerplate/issues"
   },
   "description": "A boilerplate project to kickstart new AngularJs & Node projects.",
   "dependencies": {

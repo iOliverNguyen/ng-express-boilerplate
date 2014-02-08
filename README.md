@@ -1,11 +1,11 @@
-# ng-blank-boilerplate
+# ng-node-boilerplate
 
 > A boilerplate project to kickstart new AngularJs & Node projects.
 
 
 ## Introduction
 
-Angular Blank Boilerplate is a boilerplate project to kickstart new AngularJs & Node projects. Supports Bootstrap 3, AngularJS, Express, MongoDB, Karma, Mocha, Coffee and LESS with source map. It also works well with Node Inspector and Node Theseus.
+ng-node-boilerplate (aka Blank) is a boilerplate project to kickstart new AngularJs & Node projects. Supports Bootstrap 3, AngularJS, Express, MongoDB, Karma, Mocha, Coffee and LESS with source map. It also works well with Node Inspector and Node Theseus.
 
 
 ## Quick Start
