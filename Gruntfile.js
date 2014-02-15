@@ -366,9 +366,9 @@ module.exports = function(grunt) {
 
       build_vendor: {
         options: {
-          sourceMap: true,
+          sourceMap: false,
           sourceMapFilename: '<%= src_assets %>/vendor<%= file_suffix %>.css.map',
-          sourceMapURL: '/<% assets_dir %>/vendor<%= file_suffix %>.css.map'
+          sourceMapURL: '/<%= assets_dir %>/vendor<%= file_suffix %>.css.map'
         },
         files: {
           '<%= src_assets %>/vendor<%= file_suffix %>.css': '<%= vendor_files.less %>'
@@ -497,7 +497,7 @@ module.exports = function(grunt) {
 
     delta: {
       options: {
-        livereload: false,
+        livereload: true,
         dateFormat: formatDate,
         spawn: false
       },
